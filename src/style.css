@@ -1,5 +1,20 @@
+
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgba(64, 63, 77, 0.322);
+
 }
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    margin-left: 50%;
+}
+.box:hover{
+background-color: rgba(71, 71, 209, 0.411);
+}
+.Imagen{
+z-index: -1;
+
+ }
